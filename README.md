@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **klm7649/klm7649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Mon parcours vers la Business Intelligence
+
+Au fil de mon parcours professionnel, un fil conducteur s'est dessiné autour d'une passion commune : donner du sens à l'information brute pour la rendre accessible, compréhensible et utile aux décideurs.
+
+Qu’il s’agisse de traduire un texte en préservant son sens profond, d’organiser des informations et documents variés en tant qu’assistante de direction, ou aujourd’hui d’analyser et valoriser des données complexes en Business Intelligence, mon objectif est toujours le même. Il s’agit de transformer des données initiales — qu’elles soient textuelles, administratives ou chiffrées — en éléments clairement interprétés et actionnables.
+
+Cette approche globale, nourrie par des compétences croisées, me permet d’appréhender chaque projet avec une vision fine du besoin métier, de manipuler la donnée avec rigueur et méthode, et de communiquer des résultats adaptés au public concerné.
+
+Ce portfolio témoigne ainsi de cette continuité, illustrée par des projets variés issus de ma formation BI Analyst chez OpenClassrooms, qui mettent en lumière mon savoir-faire en structuration, analyse, visualisation et pilotage de données, toujours au service des objectifs stratégiques.
